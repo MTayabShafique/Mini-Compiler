@@ -1,0 +1,15 @@
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+c:\users\tayab\documents\visual studio 2013\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb

@@ -1,0 +1,42 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\RegularExpOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\Desktop\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+C:\Users\TEMP\Desktop\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\Desktop\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+C:\Users\TEMP\Desktop\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\Desktop\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.csprojResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.csprojResolveAssemblyReference.cache
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.csprojResolveAssemblyReference.cache
+G:\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+G:\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+G:\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+G:\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+G:\RegularExpOperators\RegularExpOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+C:\Users\TEMP\Desktop\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\Desktop\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+C:\Users\TEMP\Desktop\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+C:\Users\TEMP\Desktop\RegularExpOperators\RegularExpOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\Lab\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\RegularExpOperators\RegularExpOperators\bin\Debug\RegularExpOperators.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.csprojResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\Lab\DONE\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.exe
+E:\Related with Studies\Semester 7\CC\Lab\DONE\Projects\RegularExpOperators\RegularExpOperators\obj\x86\Debug\RegularExpOperators.pdb

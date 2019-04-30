@@ -1,0 +1,5 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Infix_Postfix\bin\Debug\Infix_Postfix.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Infix_Postfix\bin\Debug\Infix_Postfix.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Infix_Postfix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Infix_Postfix\obj\x86\Debug\Infix_Postfix.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Infix_Postfix\obj\x86\Debug\Infix_Postfix.pdb

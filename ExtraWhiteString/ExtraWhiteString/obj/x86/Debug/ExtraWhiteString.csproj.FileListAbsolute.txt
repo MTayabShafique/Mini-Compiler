@@ -1,0 +1,10 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExtraWhiteString\bin\Debug\ExtraWhiteString.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExtraWhiteString\bin\Debug\ExtraWhiteString.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExtraWhiteString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExtraWhiteString\obj\x86\Debug\ExtraWhiteString.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExtraWhiteString\obj\x86\Debug\ExtraWhiteString.pdb
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\ExtraWhiteString\ExtraWhiteString\obj\x86\Debug\ExtraWhiteString.exe
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\ExtraWhiteString\ExtraWhiteString\obj\x86\Debug\ExtraWhiteString.pdb
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\ExtraWhiteString\ExtraWhiteString\bin\Debug\ExtraWhiteString.exe
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\ExtraWhiteString\ExtraWhiteString\bin\Debug\ExtraWhiteString.pdb
+E:\Related with Studies\Semester 7\CC\Lab\cc lab3\ExtraWhiteString\ExtraWhiteString\obj\x86\Debug\ExtraWhiteString.csprojResolveAssemblyReference.cache

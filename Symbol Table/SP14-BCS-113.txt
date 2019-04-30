@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace updateSymbol
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string file = System.IO.File.ReadAllText(@"C:\Users\tayab\Documents\symbol.txt");
+            string[] keyword = { "if", "print", "String", "string", "double", "begin", "end", "int", "float", "for", "main", "else", "then", "print", "defprog" };
+            string[,] X = new string[30, 2];
+            X[0, 0] = "Symbol";
+            X[0, 1] = "Dtype";
+            int indx = 1;
+            char[] space = new char[] { ' ', '\t' };
+            string[] size = file.Split(space);
+            String pattern = "^[a-zA-Z_$][a-zA-Z_$0-9]*$";
+            Regex reg = new Regex(pattern);
+            int index = 1;
+            for (int a = 0; a < size.Length; a++)
+            {
+                for (int b = 0; b < keyword.Length; b++)
+                {
+                    if (size[a] == keyword[j])
+                    {
+
+                        if (size[a] == keyword[2] || size[a] == keyword[6] || size[a] == keyword[8] || size[a] == keyword[12] || size[14] == keyword[15])
+                        {
+
+                            X[indx, 1] = size[a];
+                            size[a] = " ";
+                            indx++;
+
+                        }
+                        else
+                        {
+                            size[a] = " ";
+                        }
+                    }
+                }
+
+                Boolean sym = reg.IsMatch(size[a]);
+
+                if (sym == true)
+                {
+                    X[index, 0] = size[a];
+                    index++;
+                    Console.WriteLine(size[a + 1]);
+                    if (size[a + 1] == "(")
+                    {
+                        Console.WriteLine(size[a + 1]);
+                        X[index, 1] = "function";
+                    }
+
+                }
+
+            }
+            Console.WriteLine("Symbol Table :\n\n");
+            Console.Write("\t1\t2\n\n");
+            for (int k = 0; k < 7; k++)
+            {
+                Console.Write("{0}.\t", k + 1);
+                for (int l = 0; l < 2; l++)
+                {
+                    Console.Write("{0}\t", X[k, l]);
+                }
+                Console.Write("\n");
+            }
+            Console.ReadLine();
+        }
+    }
+}

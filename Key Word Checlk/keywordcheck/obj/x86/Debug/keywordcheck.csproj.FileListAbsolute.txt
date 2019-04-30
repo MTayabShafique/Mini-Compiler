@@ -1,0 +1,15 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\keywordcheck\bin\Debug\keywordcheck.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\keywordcheck\bin\Debug\keywordcheck.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\keywordcheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\keywordcheck\obj\x86\Debug\keywordcheck.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\keywordcheck\obj\x86\Debug\keywordcheck.pdb
+G:\keywordcheck\keywordcheck\obj\x86\Debug\keywordcheck.exe
+G:\keywordcheck\keywordcheck\obj\x86\Debug\keywordcheck.pdb
+G:\keywordcheck\keywordcheck\bin\Debug\keywordcheck.exe
+G:\keywordcheck\keywordcheck\bin\Debug\keywordcheck.pdb
+G:\keywordcheck\keywordcheck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\keywordcheck\keywordcheck\obj\x86\Debug\keywordcheck.exe
+D:\keywordcheck\keywordcheck\obj\x86\Debug\keywordcheck.pdb
+D:\keywordcheck\keywordcheck\bin\Debug\keywordcheck.exe
+D:\keywordcheck\keywordcheck\bin\Debug\keywordcheck.pdb
+D:\keywordcheck\keywordcheck\obj\x86\Debug\keywordcheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\users\tayab\documents\visual studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.exe.config
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.csprojResolveAssemblyReference.cache
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.exe
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.pdb
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.exe
+C:\Users\tayab\Documents\Visual Studio 2013\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.exe.config
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.exe
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.pdb
+E:\Related with Studies\Semester 7\CC\Lab\Projects\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.csprojResolveAssemblyReference.cache
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\bin\Debug\InfixtoPostfixEvaluate.exe.config
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.exe
+E:\Related with Studies\Semester 7\CC\Lab\DONE\InfixtoPostfixEvaluate\InfixtoPostfixEvaluate\obj\Debug\InfixtoPostfixEvaluate.pdb
